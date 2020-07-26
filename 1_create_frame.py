@@ -1,6 +1,5 @@
 from tkinter import *
 
-# 1. Create Frame
 root = Tk()
 
 root.title("Python GUI Test") # 창 제목
