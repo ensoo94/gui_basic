@@ -35,7 +35,6 @@ def yesnocancel():
         print("예")
     elif response == 0:
         print("아니오")
-        root.quit()
     else:
         print("취소")
 
